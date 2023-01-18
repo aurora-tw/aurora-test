@@ -33,7 +33,8 @@ hr {
   border-color: #F05F44;
   --bs-btn-hover-bg: #d94428;
   --bs-btn-hover-border-color: #d94428;
-  /*--bs-btn-active-border-color:#de4f34;*/
+  --bs-btn-active-border-color:#de4f34;
+  --bs-btn-active-bg:#de4f34;
   /*--bs-btn-disabled-border-color:#de4f34;*/
   /*--bs-btn-border-color:#de4f34;*/
 }
