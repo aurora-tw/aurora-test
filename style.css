@@ -38,7 +38,13 @@ hr {
   /*--bs-btn-disabled-border-color:#de4f34;*/
   /*--bs-btn-border-color:#de4f34;*/
 }
-
+a {
+  text-decoration: none;
+  color: #c6ccd2;
+}
+a:hover {
+  color: #c6ccd2;
+}
 
 .body {
 
